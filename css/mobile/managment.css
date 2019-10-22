@@ -1,7 +1,5 @@
 @import url('./navigation.css');
-
 /*BackGround*/
-
 #backGround img{
     width: 100vw;
     height: 100vh;
@@ -42,7 +40,6 @@
 #managment .container .item1 .imformation{
 
     margin: 2rem;
-
 }
 #managment .container .item1 .imformation h1{
     margin-bottom: 1rem;
