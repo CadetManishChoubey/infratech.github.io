@@ -1,8 +1,5 @@
 @import url("./navigation.css");
-
 /*-----------------------------------NAVBAR ENDS-------------------------------------------*/
-
-
 #backGround img{
     width: 100vw;
     height: 100vh;
@@ -55,7 +52,6 @@
 }
 #container .items .item{
     flex: 1;
-
 }
 #container .items .item p,h1{
     letter-spacing: 1px;
