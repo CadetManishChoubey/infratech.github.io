@@ -1,5 +1,4 @@
 @import url("./navigation.css");
-
 #container{
     display: flex;
     flex-direction: column;
@@ -24,15 +23,12 @@
     margin: 1rem 0rem;
     display: flex;
     flex-direction: column;
-    margin-left: 1rem;    
-
-    
+    margin-left: 1rem;        
 }
 #container .careerForm > form > label{
     margin: 5px;
     font-size: 1.3rem;
     font-family: avenir-lt-w01_35-light1475496, sans-serif;
-
 }
 #container .careerForm > form > input{
     width: 18rem;
@@ -41,7 +37,6 @@
     font-size: 1.3rem;
     background-color: #F7F7F7;
     font-family: avenir-lt-w01_35-light1475496, sans-serif;
-
 }
 #container .careerForm > form > input::placeholder{
     color: #3B3A3A;
